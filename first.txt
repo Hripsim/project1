@@ -1,0 +1,6 @@
+ou can also create a text file using the touch command. One difference between using this command and the cat command we covered in the last section is that, while the cat command lets you enter text into your file immediately, using the touch command does not. Another big difference is that the touch command lets you create multiple new files with a single command.
+
+The touch command is handy for quickly creating files you intend to use later.
+
+To create a new file, type the following command at the terminal prompt (replacing “sample.txt” with whatever file name you want to use), and then press Enter
+xx
